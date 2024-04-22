@@ -27,3 +27,7 @@ title: Welcome to my blog
   
 #### Sizing Solar Panel for smart installation according consumption and monthly or periodic solar energy emitted by year, [Read more...](https://github.com/ONOKANA8/SolarPanelsNasa)
 ![Solar panels installation](/vecteezy_two-builders-are-installing-solar-panels_4579204-1.jpg)
+
+
+### [Post 1 - next](_posts/2024-04-22-Smart-solar-panels-installation.md)
+
