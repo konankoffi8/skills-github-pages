@@ -23,10 +23,7 @@ title: Welcome to my blog
 - Development and Caracterization of supercapacitor electrode materials
 
 ### **Projects**
-#### Containerization based on Docker on a binary classification application whose behavior visualized is on an interactive dashboard
-  ![DashboardFailureToPay](https://github.com/ONOKANA8/DashboardFailureToPay)
+#### Containerization based on Docker on a binary classification application whose behavior visualized is on an interactive dashboard, [Read more...](https://github.com/ONOKANA8/DashboardFailureToPay)
   
-#### Sizing Solar Panel for smart installation according consumption and monthly or periodic solar energy emitted by year
-  ![SolarPanelsNasa](https://github.com/ONOKANA8/SolarPanelsNasa)
-  ![SolarPanel image]([https://github.com/ONOKANA8/SolarPanelsNasa](https://eclipseenergy.co.uk/wp-content/uploads/2022/01/Solar-Panels-2-700x525.jpg))
-
+#### Sizing Solar Panel for smart installation according consumption and monthly or periodic solar energy emitted by year, [Read more...](https://github.com/ONOKANA8/SolarPanelsNasa)
+![Solar panels installation](/vecteezy_two-builders-are-installing-solar-panels_4579204-1.jpg)
