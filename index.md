@@ -30,4 +30,5 @@ title: Welcome to my blog
 
 
 ### [Post 1 - next](_posts/2024-04-22-Smart-solar-panels-installation.md)
+### [Post 2 - Deployment Airflow Data Pipeline on Cloud AWS](_posts/2024-05-16-Deployment-Airflow-Data-Pipeline-on-Cloud-AWS.md)
 
