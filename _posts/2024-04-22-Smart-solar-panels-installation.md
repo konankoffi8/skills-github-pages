@@ -11,4 +11,4 @@ Les panneaux solaires sont une source d'énergie renouvelable de plus en plus ut
 - Suivi de l'énergie lumineuse moyenne par zone ciblée
 - Estimation du nombre de panneaux photovoltaïques - selon ses caractéristiques spécifiques- nécessaire pour une autosuffisance en énergie électrique domestique en fonction de la consommation du foyer
 
-[Post 2](_posts/markdown-test.md)
+[Post 2](_posts/_posts/markdown-test.md)
